@@ -1,0 +1,15 @@
+{
+  "socrates":    { "name": "苏格拉底",   "latin": "Socrates",            "years": "前 470 — 前 399", "born": -470, "portrait": "/portraits/socrates.svg",    "tint": "#8a7a5c" },
+  "plato":       { "name": "柏拉图",     "latin": "Plato",               "years": "前 428 — 前 348", "born": -428, "portrait": "/portraits/plato.svg",       "tint": "#6f7d8c" },
+  "aristotle":   { "name": "亚里士多德", "latin": "Aristotle",           "years": "前 384 — 前 322", "born": -384, "portrait": "/portraits/aristotle.svg",   "tint": "#7d8577" },
+  "zeno":        { "name": "芝诺",       "latin": "Zeno of Citium",      "years": "前 334 — 前 262", "born": -334, "portrait": "/portraits/zeno.svg",        "tint": "#5f6e6a" },
+  "descartes":   { "name": "笛卡尔",     "latin": "René Descartes",      "years": "1596 — 1650",     "born": 1596, "portrait": "/portraits/descartes.svg",   "tint": "#6b7280" },
+  "hume":        { "name": "休谟",       "latin": "David Hume",          "years": "1711 — 1776",     "born": 1711, "portrait": "/portraits/hume.svg",        "tint": "#77808a" },
+  "kant":        { "name": "康德",       "latin": "Immanuel Kant",       "years": "1724 — 1804",     "born": 1724, "portrait": "/portraits/kant.svg",        "tint": "#7c6f63" },
+  "hegel":       { "name": "黑格尔",     "latin": "G. W. F. Hegel",      "years": "1770 — 1831",     "born": 1770, "portrait": "/portraits/hegel.svg",       "tint": "#6a7078" },
+  "kierkegaard": { "name": "克尔凯郭尔", "latin": "Søren Kierkegaard",   "years": "1813 — 1855",     "born": 1813, "portrait": "/portraits/kierkegaard.svg", "tint": "#715f58" },
+  "nietzsche":   { "name": "尼采",       "latin": "Friedrich Nietzsche", "years": "1844 — 1900",     "born": 1844, "portrait": "/portraits/nietzsche.svg",   "tint": "#7a5a50" },
+  "heidegger":   { "name": "海德格尔",   "latin": "Martin Heidegger",    "years": "1889 — 1976",     "born": 1889, "portrait": "/portraits/heidegger.svg",   "tint": "#5d6a72" },
+  "sartre":      { "name": "萨特",       "latin": "Jean-Paul Sartre",    "years": "1905 — 1980",     "born": 1905, "portrait": "/portraits/sartre.svg",      "tint": "#6e6259" },
+  "camus":       { "name": "加缪",       "latin": "Albert Camus",        "years": "1913 — 1960",     "born": 1913, "portrait": "/portraits/camus.svg",       "tint": "#7d6a55" }
+}

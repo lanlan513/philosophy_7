@@ -1,0 +1,62 @@
+{
+  "freedom": {
+    "note": "被判定自由的人，在词与词之间寻找出口。",
+    "echoes": [
+      { "p": "kant",        "quote": "自由不是随心所欲，而是自我立法。" },
+      { "p": "kierkegaard", "quote": "焦虑是自由的眩晕。" },
+      { "p": "sartre",      "quote": "人是被判定为自由的。" }
+    ]
+  },
+  "soul": {
+    "note": "在可朽的身体里，人们长久地假设过一种不朽。",
+    "echoes": [
+      { "p": "socrates",  "quote": "未经审视的人生不值得过。" },
+      { "p": "plato",     "quote": "思考是灵魂与自己的对话。" },
+      { "p": "aristotle", "quote": "灵魂是生命的原则。" }
+    ]
+  },
+  "doubt": {
+    "note": "怀疑不是终点，而是每一次重新出发的起点。",
+    "echoes": [
+      { "p": "socrates",  "quote": "我唯一知道的，就是我一无所知。" },
+      { "p": "descartes", "quote": "我思，故我在。" },
+      { "p": "hume",      "quote": "理性是、也只应当是激情的奴隶。" }
+    ]
+  },
+  "happiness": {
+    "note": "幸福被反复定义，又反复从定义里逃走。",
+    "echoes": [
+      { "p": "aristotle", "quote": "幸福是灵魂合乎德性的现实活动。" },
+      { "p": "zeno",      "quote": "幸福来自与自然一致的生活。" },
+      { "p": "nietzsche", "quote": "幸福不是目标，而是力量增长的感觉。" }
+    ]
+  },
+  "absurd": {
+    "note": "当世界沉默不语，荒诞便开始了。",
+    "echoes": [
+      { "p": "nietzsche", "quote": "上帝死了，是我们杀死了他。" },
+      { "p": "sartre",    "quote": "人是一种徒劳的激情。" },
+      { "p": "camus",     "quote": "真正严肃的哲学问题只有一个：自杀。" }
+    ]
+  },
+  "time": {
+    "note": "若无人问我，我知道；若要解释，我便茫然。",
+    "echoes": [
+      { "p": "plato",      "quote": "时间是永恒的影像。" },
+      { "p": "hegel",      "quote": "密涅瓦的猫头鹰在黄昏起飞。" },
+      { "p": "heidegger",  "quote": "人是向死而生的存在。" }
+    ]
+  },
+  "truth": {
+    "note": "真理并不住在洞穴里，但洞穴里有它的影子。",
+    "echoes": [
+      { "p": "plato",     "quote": "理念是唯一的真实。" },
+      { "p": "hegel",     "quote": "真理是全体。" },
+      { "p": "nietzsche", "quote": "没有事实，只有解释。" }
+    ]
+  },
+  "silence": {
+    "note": "这件标本尚未被著录。",
+    "echoes": []
+  }
+}

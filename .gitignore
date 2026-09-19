@@ -30,3 +30,6 @@ Thumbs.db
 # Cache
 .cache/
 *.cache
+
+# 运行时收藏数据
+server/data/collections.json

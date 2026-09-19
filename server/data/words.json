@@ -1,0 +1,10 @@
+[
+  { "id": "freedom",  "word": "自由", "latin": "LIBERTAS",  "catalog": "NO. 01", "x": 13, "y": 20, "rotate": -4, "scale": 1.15 },
+  { "id": "soul",     "word": "灵魂", "latin": "ANIMA",     "catalog": "NO. 02", "x": 57, "y": 13, "rotate": 3,  "scale": 1.3 },
+  { "id": "doubt",    "word": "怀疑", "latin": "DUBIUM",    "catalog": "NO. 03", "x": 33, "y": 43, "rotate": -2, "scale": 1 },
+  { "id": "happiness","word": "幸福", "latin": "FELICITAS", "catalog": "NO. 04", "x": 73, "y": 37, "rotate": 5,  "scale": 1.1 },
+  { "id": "absurd",   "word": "荒诞", "latin": "ABSURDUM",  "catalog": "NO. 05", "x": 15, "y": 61, "rotate": 2,  "scale": 1.25 },
+  { "id": "time",     "word": "时间", "latin": "TEMPUS",    "catalog": "NO. 06", "x": 51, "y": 65, "rotate": -3, "scale": 1 },
+  { "id": "truth",    "word": "真理", "latin": "VERITAS",   "catalog": "NO. 07", "x": 79, "y": 67, "rotate": -5, "scale": 1.05 },
+  { "id": "silence",  "word": "沉默", "latin": "SILENTIUM", "catalog": "NO. 08", "x": 37, "y": 81, "rotate": 1,  "scale": 0.95 }
+]

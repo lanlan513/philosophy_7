@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <defs>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.14"/></feComponentTransfer><feComposite operator="over" in2="SourceGraphic"/></filter>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101216"/><stop offset="1" stop-color="#1b1e24"/></linearGradient>
+  </defs>
+  <rect width="400" height="520" fill="url(#fade)"/>
+  <rect x="118.5" y="0" width="17.4" height="520" fill="#6e6259" opacity="0.167"/>
+  <rect x="-7.1" y="0" width="55.8" height="520" fill="#6e6259" opacity="0.168"/>
+  <rect x="289.8" y="0" width="54.7" height="520" fill="#6e6259" opacity="0.104"/>
+  <rect x="249.9" y="0" width="49.0" height="520" fill="#6e6259" opacity="0.143"/>
+  <rect x="369.4" y="0" width="34.1" height="520" fill="#6e6259" opacity="0.056"/>
+  <circle cx="103" cy="277" r="147" fill="none" stroke="#6e6259" stroke-width="1.4" opacity="0.55"/>
+  <circle cx="103" cy="277" r="91" fill="#6e6259" opacity="0.10"/>
+  <path d="M0 423 A 400 400 0 0 1 400 343" fill="none" stroke="#6e6259" stroke-width="1" opacity="0.4"/>
+  <text x="200" y="317" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#6e6259" opacity="0.8">J</text>
+  <text x="24" y="492" font-family="ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#6e6259" opacity="0.75">JEAN-PAUL SARTRE</text>
+  <rect width="400" height="520" fill="#000" opacity="0" filter="url(#grain)"/>
+</svg>
